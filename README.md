@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Zunaed
 #### I am Flutter Developer
-![I am Flutter Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Flutter Developer](https://cdn.discordapp.com/attachments/1095729383861395517/1095729514522345703/profile-banner.png)
 
 I'm a FLutter developer with 1 year of experience. I can make a nice and responsive UI for your mobile Application. 
 
