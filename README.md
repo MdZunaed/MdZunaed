@@ -2,7 +2,7 @@
 #### I am Flutter Developer
 ![I am Flutter Developer](https://cdn.discordapp.com/attachments/1095729383861395517/1095729514522345703/profile-banner.png)
 
-I'm a FLutter developer with 1 year of experience. I can make a nice and responsive UI for your mobile Application. 
+As an accomplished Flutter developer, I bring 2 years of dedicated experience crafting seamless applications. My expertise lies in leveraging Flutter to deliver impactful solutions, poised to elevate your project to new heights of success
 
 Skills: Flutter and Dart
 
