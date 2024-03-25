@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Zunaed
 #### I am Flutter Developer
-![I am Flutter Developer](https://gifyu.com/image/SUJ6n)
+![I am Flutter Developer](https://github.com/ZunaedJarif/online/blob/main/live/znd-social-bg.png?raw=true)
 
 As an accomplished Flutter developer, I bring 2 years of dedicated experience crafting seamless applications. My expertise lies in leveraging Flutter to deliver impactful solutions, poised to elevate your project to new heights of success
 
