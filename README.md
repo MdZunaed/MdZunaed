@@ -7,7 +7,7 @@ As an accomplished Flutter developer, I bring 2 years of dedicated experience cr
 Skills: Flutter and Dart
 
 - 🔭 I’m currently working on Flutter  
-- 🌱 I’m currently learning Back-end development  
+- 🌱 I’m currently learning advance Flutter development  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdZunaed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/znd00)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/zunaedworklab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~0167d503217fe0bfc3)  
